@@ -1,0 +1,16 @@
+{
+  "name": "Discord-GIF-Bot",
+  "version": "1.0.0",
+  "description": "Pull a GIF from giphy when you type 'gif' into the discord channel",
+  "main": "bot.js",
+  "dependencies": {
+    "discordie": "^0.11.0",
+    "request":  "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "author": "Kenny Day",
+  "license": "ISC"
+}
